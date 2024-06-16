@@ -15,7 +15,7 @@ prefix = "$$"
 #use the .env feature to hide your token
 
 keep_alive()
-token = os.getenv("TOKEN")
+token = os.getenv("NzQ2NzY3ODMxNDAzODU1OTUz.GlKBAo.MrDeZvuqVag-YpOm7O47rUtvij6Vf9Wd9VnElI")
 
 #---------------#
 
